@@ -15,6 +15,7 @@ int main(){
 }
 
 /*
+OUTPUT
 enter a number:45
 this is a odd number
 

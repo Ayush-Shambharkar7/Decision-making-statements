@@ -47,6 +47,7 @@ int main()
 }
 
 /*
+OUTPUT
 Enter your Arthmetic choice: 
 1)Addition
 2)Subtraction

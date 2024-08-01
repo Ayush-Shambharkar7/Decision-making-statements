@@ -21,6 +21,7 @@ int main(){
 }
 
 /*
+OUTPUT
 enter a alphabet:A
 A is a vowels
 
