@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - take 3 input from user and check which of the following number is the greates among the 3.
+
 #include<iostream>
 using namespace std;
 
@@ -24,8 +28,8 @@ int main() {
     // {
     //     cout << " a is the largest number ";
     // }
-    // else if (b > a && b > c)
-    // {
+    // else if (b > a && b > c)                         
+    // {                                                //using if-else condition
     //     cout << " b is the larget number";
     // }else{
     //     cout << "c is the largest number";
