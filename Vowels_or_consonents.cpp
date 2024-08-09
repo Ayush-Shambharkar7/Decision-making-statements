@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - take any albhabet form user and derive whether it is a vowel or a consonent.
+
 #include<iostream>
 using namespace std;
 
