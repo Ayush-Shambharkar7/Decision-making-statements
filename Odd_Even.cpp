@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - take a random number from user and check wheter the number is even of odd.
+
 #include<iostream>
 
 using namespace std;
