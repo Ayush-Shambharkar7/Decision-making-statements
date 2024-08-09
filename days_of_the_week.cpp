@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - using switch case statement take any day from the user to print the day which user have dicides to choose.
+
 #include<iostream>
 using namespace std;
 int main()
