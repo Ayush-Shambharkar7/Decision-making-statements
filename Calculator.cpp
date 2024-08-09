@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - create a calculator to perform some of the arithmetic operation.
+
 #include<iostream>
 using namespace std;
 int main()
